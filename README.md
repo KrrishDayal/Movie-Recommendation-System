@@ -8,3 +8,5 @@ movies.csv: Contains movie details (movieId, title, genres, etc.)
 ratings.csv: Contains user ratings (userId, movieId, rating)
 ## Results
 The model provides effective recommendations with good accuracy, including RMSE, MAE, and Precision@10 metrics.
+## License
+This project is licensed under the MIT License.
